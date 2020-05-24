@@ -2,11 +2,7 @@
 
 ### Day 1: May 24, 2020 
 
-**Today's Progress**: 
+**Today's Progress**: Make Calculator-Web design with CSS
 
-**Thoughts:** 
+**Link to work:** [Kalkulator-Web](https://github.com/hafizha19/Kalkulator-Web)
 
-**Link to work:** [ ](http://www.example.com)
-
-
-**Link(s) to work**
