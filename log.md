@@ -12,4 +12,4 @@
 **Today's Progress**: Complete Calculator-Web function with JS
 **Thoughts**: Mulai menguras energi. It is harder than PHP, oh maybe it happened because JS is new for me :) Ganbatte!!
 
-**Link to work:** [Kalkulator-Web JS](https://github.com/hafizha19/Kalkulator-Web/assets/kalkulator.js)
+**Link to work:** [Kalkulator-Web JS](https://github.com/hafizha19/Kalkulator-Web/blob/master/assets/kalkulator.js)
