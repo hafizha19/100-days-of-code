@@ -14,12 +14,18 @@
 
 ### Day 3: May 26, 2020 
 
-**Today's Progress**: Learn 3 Basic Examples of JavaScript
+**Today's Progress**: Solved 3 Basic Exercises of JavaScript
 
 **Link to work:** [Basic-JS](https://github.com/hafizha19/JS-Basic)
 
 ### Day 4: May 27, 2020 
 
-**Today's Progress**: Learn 6 Basic Examples of JavaScript
+**Today's Progress**: Solved 6 Basic Exercises of JavaScript
 
 **Link to work:** [Basic-JS](https://github.com/hafizha19/JS-Basic)
+
+### Day 5: May 28, 2020 
+
+**Today's Progress**: Solved 5 Basic Exercises of JavaScript and remake my ETahfizh App with JS
+
+**Link to work:** [ETahfizh-Web-JS](https://github.com/hafizha19/ETahfizh-Web-JS)
