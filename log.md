@@ -29,3 +29,10 @@
 **Today's Progress**: Solved 5 Basic Exercises of JavaScript and remake my ETahfizh App with JS
 
 **Link to work:** [ETahfizh-Web-JS](https://github.com/hafizha19/ETahfizh-Web-JS)
+
+### Day 6: May 29, 2020 
+
+**Today's Progress**: Add front-end feature, finishing my web-app and submit it to get revision wkwk
+
+**Link to work:** [ETahfizh-Web-JS](https://github.com/hafizha19/ETahfizh-Web-JS)
+
