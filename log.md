@@ -36,3 +36,6 @@
 
 **Link to work:** [ETahfizh-Web-JS](https://github.com/hafizha19/ETahfizh-Web-JS)
 
+### Day 7: May 30, 2020 
+
+**Today's Progress**: Start with new course, learn about ES6. 
