@@ -39,3 +39,7 @@
 ### Day 7: May 30, 2020 
 
 **Today's Progress**: Start with new course, learn about ES6. 
+
+### Day 8: May 31, 2020 
+
+**Today's Progress**: Learn about OOP in JavaScript 
