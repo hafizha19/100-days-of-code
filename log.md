@@ -43,3 +43,7 @@
 ### Day 8: May 31, 2020 
 
 **Today's Progress**: Learn about OOP in JavaScript 
+
+### Day 9: June 1, 2020 
+
+**Today's Progress**: Learn about callback function in js. Mulai stuck di sini dan ngerefresh otak dengan liatin video2 tips.
