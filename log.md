@@ -47,3 +47,11 @@
 ### Day 9: June 1, 2020 
 
 **Today's Progress**: Learn about callback function in js. Mulai stuck di sini dan ngerefresh otak dengan liatin video2 tips.
+
+### Day 10: June 2, 2020 
+
+**Today's Progress**: Masih stuck dan nyoba referensi lain. Main python sebagai pelarian.
+
+### Day 11: June 3, 2020 
+
+**Today's Progress**: Masih berlari dengan python
