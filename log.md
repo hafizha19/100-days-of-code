@@ -55,3 +55,12 @@
 ### Day 11: June 3, 2020 
 
 **Today's Progress**: Masih berlari dengan python
+
+### Day 12: June 4, 2020 
+
+**Today's Progress**: Back to Js. Deadline mepet.
+
+### Day 13: June 5, 2020 
+
+**Today's Progress**: Learn about using module and custom element.
+
