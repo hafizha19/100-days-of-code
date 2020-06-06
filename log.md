@@ -64,3 +64,6 @@
 
 **Today's Progress**: Learn about using module and custom element.
 
+### Day 14: June 6, 2020 
+
+**Today's Progress**: Ngotak-atik custom element.
