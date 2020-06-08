@@ -67,3 +67,11 @@
 ### Day 14: June 6, 2020 
 
 **Today's Progress**: Ngotak-atik custom element.
+
+### Day 15: June 7, 2020 
+
+**Today's Progress**: Nested custom element.
+
+### Day 16: June 8, 2020 
+
+**Today's Progress**: Get started with npm and try to use git.
