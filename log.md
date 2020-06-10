@@ -75,3 +75,11 @@
 ### Day 16: June 8, 2020 
 
 **Today's Progress**: Get started with npm and try to use git.
+
+### Day 17: June 9, 2020 
+
+**Today's Progress**: Continued etahfizh project (update project format).
+
+### Day 16: June 8, 2020 
+
+**Today's Progress**: Add etahfizh feature (reading juz amma) and styling.
