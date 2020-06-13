@@ -80,6 +80,22 @@
 
 **Today's Progress**: Continued etahfizh project (update project format).
 
-### Day 16: June 8, 2020 
+### Day 18: June 10, 2020 
 
 **Today's Progress**: Add etahfizh feature (reading juz amma) and styling.
+
+### Day 19: June 11, 2020 
+
+**Today's Progress**: Applying ES6 example on juzamma features
+
+### Day 20: June 12, 2020 
+
+**Today's Progress**: Add custom element on juzamma.
+
+### Day 21: June 13, 2020 
+
+**Today's Progress**: Make the juzamma styling features are renponsive
+
+### Day 22: June 14, 2020 
+
+**Today's Progress**: Learning webpack (it's so not easy yet wkwk)
