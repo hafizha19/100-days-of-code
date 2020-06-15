@@ -99,3 +99,7 @@
 ### Day 22: June 14, 2020 
 
 **Today's Progress**: Learning webpack (it's so not easy yet wkwk)
+
+### Day 23: June 15, 2020 
+
+**Today's Progress**: Terkejar deadline. Make a simple app [Find A Meal](https://github.com/hafizha19/Find-A-Meal) with API TheMealDB
