@@ -103,3 +103,16 @@
 ### Day 23: June 15, 2020 
 
 **Today's Progress**: Terkejar deadline. Make a simple app [Find A Meal](https://github.com/hafizha19/Find-A-Meal) with API TheMealDB
+
+### Day 24: June 16, 2020 
+
+**Today's Progress**: Nyari referensi buat belajar, download full anime session to refresh my mind wkwk 
+
+### Day 25: June 17, 2020 
+
+**Today's Progress**: Found a good learning path suggestion [Front and Back-End Learning Path](https://github.com/kamranahmedse/developer-roadmap/blob/master/README.md) and set learning strategies.
+
+### Day 26: June 18, 2020 
+
+**Today's Progress**: Get started to make my portfolio with Bootstrap (First time)
+
