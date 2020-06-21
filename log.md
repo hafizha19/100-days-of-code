@@ -116,3 +116,16 @@
 
 **Today's Progress**: Get started to make my portfolio with Bootstrap (First time)
 
+### Day 27: June 19, 2020 
+
+**Today's Progress**: Continue to make my portfolio with Bootstrap (First time)
+
+### Day 28: June 20, 2020 
+
+**Today's Progress**: Start to learn FreeCodeCamp (Basic HTML)
+
+### Day 29: June 21, 2020 
+
+**Today's Progress**: FreeCodeCamp - Basic CSS
+
+
