@@ -122,10 +122,24 @@
 
 ### Day 28: June 20, 2020 
 
-**Today's Progress**: Start to learn FreeCodeCamp (Basic HTML)
+**Today's Progress**: Start to learn [FreeCodeCamp](https://www.freecodecamp.org) (Basic HTML)
 
 ### Day 29: June 21, 2020 
 
 **Today's Progress**: FreeCodeCamp - Basic CSS
 
+### Day 30: June 22, 2020 
 
+**Today's Progress**: Completed Basic CSS
+
+### Day 31: June 23, 2020 
+
+**Today's Progress**: FreeCodeCamp - Applied Visual Design 
+
+### Day 32: June 24, 2020 
+
+**Today's Progress**: completed Applied Visual Design and make a [Birthday Cake](https://github.com/hafizha19/Birthday-Cake)
+
+### Day 33: June 25, 2020 
+
+**Today's Progress**: 
